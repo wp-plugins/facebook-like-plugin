@@ -17,7 +17,7 @@ profiles.
 == Installation ==
 
 1. Download facebook-like-button-plugin.zip
-2. Unpack and upload file ‘facebook-like-button-plugin.php’ to ‘/wp-content/plugins/’.
+2. Unpack and upload file facebook-like-button-plugin.php to /wp-content/plugins/.
 3. Head to your dashboard and activate the plugin.
 4. That is all, the plugin is ready to go!
 
@@ -43,7 +43,7 @@ None at this time.
 
 == Arbitrary section ==
 
-I gave the plugin a style id ‘facebook_like_button’ so you can control the look and feel of the plugin with css.
+I gave the plugin a style id facebook_like_button so you can control the look and feel of the plugin with css.
 
 == A brief Markdown Example ==
 
